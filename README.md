@@ -1,8 +1,10 @@
 # OpenClaw Setup Guide for Android 
 ---
-![WhatsApp Image 2026-02-12 at 10 06 37 PM](https://github.com/user-attachments/assets/46517502-985b-4ec0-a102-cbdd55c91976)|  ![WhatsApp Image 2026-02-12 at 10 12 20 PM](https://github.com/user-attachments/assets/bb63f1e3-aa3f-42be-ab0c-c4baa3eecd5a)
+```
+![WhatsApp Image 2026-02-12 at 10 06 37 PM](https://github.com/user-attachments/assets/46517502-985b-4ec0-a102-cbdd55c91976)
+![WhatsApp Image 2026-02-12 at 10 12 20 PM](https://github.com/user-attachments/assets/00d65201-dbb6-4c61-a0b1-e1a789d8445d)
 
-
+```
 ## What You’re Building
 
 By the end of this guide, your Android phone will:
