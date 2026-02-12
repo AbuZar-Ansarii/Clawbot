@@ -167,9 +167,12 @@ http://127.0.0.1:18789
 
 ```
 Get your gateway token:
-
-
-
+start new terminal session
+login ubuntu
+run -
+```
+cat -/.openclaw.json
+```
 openclaw config get gateway.auth.token
 
 
