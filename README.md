@@ -171,7 +171,7 @@ start new terminal session
 login ubuntu
 run -
 ```
-cat -/.openclaw/openclaw.json
+cat ~/.openclaw/openclaw.json
 ```
 openclaw config get gateway.auth.token
 
