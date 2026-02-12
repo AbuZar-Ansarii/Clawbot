@@ -241,12 +241,4 @@ For true 24/7 operation, keep the phone connected to power.
 
 ---
 
-## Final Note
-
-If you followed each step correctly, your Android device is now running a fully functional AI agent locally.
-
-Watch the full walkthrough again:
-
-https://youtu.be/hM5LHJByJZk
-
 
