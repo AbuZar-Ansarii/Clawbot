@@ -23,7 +23,7 @@ Make sure you have:
 
 ---
 
-## Step 1: Install Termux
+## Install Termux
 
 1. Go to **F-Droid.org**
 2. Download and install **F-Droid**
