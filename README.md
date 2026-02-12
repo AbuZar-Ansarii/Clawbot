@@ -85,10 +85,10 @@ npm -v
 
 ```
 
-## Verify
+## update and install git
 ```
-node -v
-npm -v
+apt update
+apt install -y git
 
 ```
 
